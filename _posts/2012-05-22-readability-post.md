@@ -14,11 +14,11 @@ tags:
 <p>Fakultas  : Sains dan Teknologi</p>
 <p>Universitas : Islam Negeri Sultan Syarif Kasim Riau</p>
 
+<br>
 ***Pendidikan Formal***
----
 <p>SDN 044 Duri Timur(2002-2008)</p>
 <p>SMPN 03 Mandau(2008-2011)</p>
 <p>SMAN 08 Mandau(2011-2014)</p>
-<p>UIN SUSKA RIAU(Sedang Berlansung)</p>
+<p>Universitas Islam Negeri Sultan Syarif Kasim Riau(Sedang Berlansung)</p>
 
 

@@ -1,15 +1,16 @@
 ---
 layout: post
-title: "MIPS Nedir"
-date: 2012-05-22
+title: "About Me"
+date: 2017-12-11
 excerpt: "Mips ve assembly kodları giriş."
 tags: [sample post, readability, test]
 ---
-**Mips Nedir ?**
+**About Me**
 ===
-MIPS **İndirgenmiş Komut Kümesi** türü bir mikroişlemci mimarisidir. MIPS Teknolojileri adlı firma tarafından üretilmiştir. Her komut aynı boydadır. Bu da komutların bilgisayar donanımı tarafından kolay çözülmesini sağlar.
-**RISC** yapısından dolayı tasarımı basittir. Çoğu modern mikroişlemci mimarisi (IBM/Motorola PowerPC, DEC, ARM) Mips mimarisinden esinlenilerek yapılmıştır.
-Günümüz itibarıyla **Nintendo 64**, **Sony PlayStation**, **Sony PlayStation 2** ve **Sony PSP** MIPS mimarisi ile çalışan işlemcilere sahiptirler.
+Nama saya   : Yolanda Suryani
+Jurusan     : Sistem Informasi 
+Fakultas    : Sains dan Teknologi
+Universitas : Islam Negeri Sultan Syarif Kasim Riau
 
 Register'lar Neden Var
 ---

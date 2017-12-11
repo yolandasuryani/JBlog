@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""
+title: "KKN Story"
 date: 2017-12-11
 excerpt: "Examples and code for displaying images in posts."
 tags: [sample post, images, test]

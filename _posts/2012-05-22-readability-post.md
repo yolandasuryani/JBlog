@@ -16,9 +16,9 @@ tags:
 
 Pendidikan Formal
 ---
-SDN 044 Duri Timur(2002-2008)
-SMPN 03 Mandau(2008-2011)
-SMAN 08 Mandau(2011-2014)
-UIN SUSKA RIAU(Sedang Berlansung)
+<p>SDN 044 Duri Timur(2002-2008)</p>
+<p>SMPN 03 Mandau(2008-2011)</p>
+<p>SMAN 08 Mandau(2011-2014)</p>
+<p>UIN SUSKA RIAU(Sedang Berlansung)</p>
 
 

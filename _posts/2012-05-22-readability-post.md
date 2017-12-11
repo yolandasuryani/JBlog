@@ -6,7 +6,7 @@ excerpt:
 tags: 
 ---
 
-<img src="/assets/img/1.png"></a>
+<img src="/assets/img/1.png">
 
 <p>Nama  : Yolanda Suryani</p>
 <p>Nim    : 11453205965

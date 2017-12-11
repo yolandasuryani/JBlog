@@ -9,7 +9,7 @@ tags: [sample post, readability, test]
 
 <p>Nama  : Yolanda Suryani</p>
 <p>jurusan : Sistem Informasi</p>
-<p>Fakultas  :Sains dan Teknologi</p>
+<p>Fakultas  : Sains dan Teknologi</p>
 <p>Universitas : Islam Negeri Sultan Syarif Kasim Riau</p>
 
 Register'lar Neden Var

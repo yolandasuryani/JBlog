@@ -14,8 +14,11 @@ tags:
 <p>Fakultas  : Sains dan Teknologi</p>
 <p>Universitas : Islam Negeri Sultan Syarif Kasim Riau</p>
 
-Register'lar Neden Var
+Pendidikan Formal
 ---
-İşlemci birim zamanda sadece bir işlem yapabilir. Örneğin 3 sayıyı toplamasını istediğimizde önce ilk ikisini toplayacak, sonra ara sonucu tekrar ram'e yazacak. Sonra bu ara sonuç ile 3. sayıyı tekrar çağırıp onlarıda toplayacak. Sonra tekrar Ram'e kadar gidi yazacak. Fakat ara sonucu işlemcinin içerisinde tutabilseydik işlemleri daha hızlı gerçekleştirebilirdik. Her işlemden sonra verileri ram'e götürüp yazmak zorunda kalmazdık. Böyle diyerek işlemcinin içerisine registerları eklemişler.
+SDN 044 Duri Timur(2002-2008)
+SMPN 03 Mandau(2008-2011)
+SMAN 08 Mandau(2011-2014)
+UIN SUSKA RIAU(Sedang Berlansung)
 
 

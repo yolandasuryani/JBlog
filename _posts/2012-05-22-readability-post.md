@@ -2,8 +2,8 @@
 layout: post
 title: "About Me"
 date: 2017-12-11
-excerpt: "Mips ve assembly kodları giriş."
-tags: [sample post, readability, test]
+excerpt: 
+tags: 
 ---
 
 

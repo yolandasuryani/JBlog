@@ -6,10 +6,10 @@ excerpt: "Mips ve assembly kodları giriş."
 tags: [sample post, readability, test]
 ---
 
-===
-Name  : Yolanda Suryani
+
+<p>Nama  : Yolanda Suryani</p>
 <p>jurusan : Sistem Informasi</p>
-Fakultas  :Sains dan Teknologi
+<p>Fakultas  :Sains dan Teknologi</p>
 <p>Universitas : Islam Negeri Sultan Syarif Kasim Riau</p>
 
 Register'lar Neden Var

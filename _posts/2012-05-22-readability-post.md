@@ -5,12 +5,12 @@ date: 2017-12-11
 excerpt: "Mips ve assembly kodları giriş."
 tags: [sample post, readability, test]
 ---
-**About Me**
+
 ===
-Nama saya   : Yolanda Suryani
-<p>Jurusan         : Sistem Informasi</p>
-<p>Fakultas : Sains dan Teknologi</p>
-Universitas : Islam Negeri Sultan Syarif Kasim Riau
+Name  : Yolanda Suryani
+<p>jurusan : Sistem Informasi</p>
+Fakultas  :Sains dan Teknologi
+<p>Universitas : Islam Negeri Sultan Syarif Kasim Riau</p>
 
 Register'lar Neden Var
 ---

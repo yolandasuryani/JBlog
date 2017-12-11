@@ -8,7 +8,7 @@ tags: [sample post, readability, test]
 **About Me**
 ===
 Nama saya   : Yolanda Suryani
-Jurusan     : Sistem Informasi 
+<p>Jurusan     : Sistem Informasi</p>
 Fakultas    : Sains dan Teknologi
 Universitas : Islam Negeri Sultan Syarif Kasim Riau
 
